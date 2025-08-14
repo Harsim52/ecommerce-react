@@ -1,0 +1,1 @@
+import{j as e}from"./index-88b1c9ca.js";const s=()=>e.jsxs("div",{className:"text-center p-6",children:[e.jsx("h2",{className:"text-2xl font-bold",children:"404 - Page Not Found"}),e.jsx("p",{className:"text-gray-500",children:"The page you are looking for doesn't exist."})]});export{s as default};
